@@ -1,0 +1,51 @@
+.home{
+    background-color: #202020;
+    color: white;
+    
+    height: 60%;
+    width: 99%;
+    padding: 2px;
+    box-shadow: 4px 3px 8px 1px #1A1A1A;
+    -webkit-box-shadow: 4px 3px 8px 1px #1A1A1A;
+}
+
+.homeMain{
+    padding: 20px;
+   
+}
+
+.homeMain > div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageContainer{
+    background-color:202020;
+    border-radius: 150px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.imageContainer > img{
+    width: 100%;
+    object-fit: contain;
+    border-radius: 50px;
+}
+
+.homeName{
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 44px;
+    color: #FEDA4E;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.homeDev{
+    overflow-wrap: normal;
+}

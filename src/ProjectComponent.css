@@ -1,0 +1,43 @@
+.projectVideo > video{
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.projectTitle{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.projectTitle:hover{
+    color: white;
+}
+
+.projectVideo {
+    width: 97%;
+    overflow: hidden;
+    height: 225px;
+    object-fit: contain;
+}
+
+.projectDescription{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.projectComponent{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 350px;
+    overflow: hidden;
+    width: 300px;
+    background-color: #FEDA4E;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin: 10px;
+}

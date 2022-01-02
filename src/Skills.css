@@ -1,0 +1,60 @@
+.skillsContent{
+    background-color: #202020;
+    color: white;
+    height: 400px;
+    box-shadow: 4px 1px 8px 1px #1A1A1A;
+    -webkit-box-shadow: 4px 3px 8px 1px #1A1A1A;
+}
+
+.skillTitle{
+    margin-bottom: 30px;
+    margin-top: 30px;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.skillMain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.skillLanguageBox{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.skillLanguageBox > div {
+    margin-left: 20px;
+}
+
+
+.skillTechnologiesBox{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.skillTechnologiesBox > div{
+    margin-left: 20px;
+}
+
+.skillPlatformBox{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.skillPlatformBox > div {
+    margin-left: 20px;
+}
+
+

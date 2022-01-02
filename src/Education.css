@@ -1,0 +1,53 @@
+.educationContent{
+    color: white;
+    background-color: #272727;
+    box-shadow: 4px 3px 8px 1px #1A1A1A;
+    -webkit-box-shadow: 4px 3px 8px 1px #1A1A1A;
+    display: flex;
+    height: 400px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.educationTitle{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.educationDegree{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.beIT{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.twelvthMark{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.tenthMark{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+.EngineeringMark{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-bottom: 10px;
+}

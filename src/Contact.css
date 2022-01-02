@@ -1,0 +1,60 @@
+.contactConcept{
+    color: white;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 4px 1px 8px 1px #1A1A1A;
+    -webkit-box-shadow: 4px 3px 8px 1px #1A1A1A;
+}
+
+.emailForm{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    flex-wrap: wrap;
+}
+
+.contactMainText{
+    text-align: center;
+}
+.contactBox{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.contactPhone{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #202020;
+    border: 1px solid white;
+    padding: 5px;
+    color: white;
+}
+
+.compulsoryNotice{
+    margin-top: 10px;
+    
+}
+
+.Sendbtn{
+
+    border-radius: 5px;
+    border: 2px solid white;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+
+.Sendbtn:hover{
+    background-color: #272727;
+    color: white;
+}
