@@ -16,7 +16,7 @@ const Home = () => {
                 </div>
             </div>
             <div className="homeDev">
-                Web Developer | Android Developer | BlockChain Developer
+                I'm Shreyansh from India ,a 20 year old tech enthusiast. I do content on Development. I really enjoy learning languages and frameworks like React ,as well as work in Frontend💻
             </div>
         </div>
         </div>
