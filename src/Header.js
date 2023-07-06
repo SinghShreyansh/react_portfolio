@@ -12,7 +12,7 @@ const Header = () => {
     return (
         <div className='header'>
             <div className="headMain">
-                <a href='diversity-nomura1.zip' download='Shreyansh Portfolio.pdf' >
+                <a href='diversity-nomura-1.zip' download='Shreyansh Portfolio.pdf' >
                    Download ⬇️ 
                 </a>
                 {/* <div className="homeHead" >
