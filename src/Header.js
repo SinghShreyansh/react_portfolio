@@ -37,12 +37,16 @@ const Header = () => {
                 <img src={Instagram} alt="" />
                    
                 </a>
-            <a className="twitter" href='https://twitter.com/Shreyansh0322'>
+            // <a className="twitter" href='https://twitter.com/Shreyansh0322'>
+            //     <img src={Twitter} alt="" />
+            
+            //     </a>
+             <a className="twitter" href='https://chat.openai.com/share/7efdc44b-fa03-4e09-9c86-c98ab6a50710'>
                 <img src={Twitter} alt="" />
             
                 </a>
-    <a className="exam" href='https://chat.openai.com/share/7efdc44b-fa03-4e09-9c86-c98ab6a50710'>
-                <img src={Twitter} alt="" />
+    // <a className="exam" href='https://chat.openai.com/share/7efdc44b-fa03-4e09-9c86-c98ab6a50710'>
+    //             <img src={Twitter} alt="" />
             
                 </a>
             <a className="Github" href='https://github.com/SinghShreyansh' >
